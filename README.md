@@ -1,5 +1,5 @@
 # clemsonyear1
-Personal GitHub repository for version control of code written for classes at Clemson University
+Personal GitHub repository for archiving code written for classes at Clemson University
 
 All code in this repository is free for anyone's use. I doubt it will be too terribly useful to very many people.
 Any comments, constructive criticism, or concerns can be emailed to me or commented on the repo as well.

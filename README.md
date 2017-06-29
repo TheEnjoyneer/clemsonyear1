@@ -6,7 +6,9 @@ Any comments, constructive criticism, or concerns can be emailed to me or commen
 
 Contents should include code written for Clemson's classes on:
   > `Introduction to C Programming`
+  
   > `Introduction to Logical Thinking (MATLAB Programming Language class)`
+  
   > `Miscellaneous Code as well`
   
   All constructive comments are appreciated.

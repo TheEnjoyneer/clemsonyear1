@@ -5,9 +5,9 @@ All code in this repository is free for anyone's use. I doubt it will be too ter
 Any comments, constructive criticism, or concerns can be emailed to me or commented on the repo as well.
 
 Contents should include code written for Clemson's classes on:
-  > `Introduction to C Programming`
+  > `CPSC 1010 Introduction to C Programming (Basic C Language Concepts)`
   
-  > `Introduction to Logical Thinking (MATLAB Programming Language class)`
+  > `ENGR 1410/1411 Introduction to Logical Thinking (MATLAB Programming Language class)`
   
   > `Miscellaneous Code as well`
   
